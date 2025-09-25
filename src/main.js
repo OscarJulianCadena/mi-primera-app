@@ -11,6 +11,7 @@ document.querySelector('#app').innerHTML = `
     <h1>Oscar Cadena</h1>
     <div class="card">
       <button id="counter" type="button"></button>
+      <button>Nuevo boton</button>
     </div>
     <h3 class="read-the-docs">
       Bienvenido a mi pagina web
